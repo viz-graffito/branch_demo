@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 feature 2 added
 
 
 
-=======
-jkldsa;fjkl;sdfjakl;fjdksla
->>>>>>> feature3
