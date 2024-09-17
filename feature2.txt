@@ -1,4 +1,4 @@
-feature2 is added
+i changed this line to create a conflict.
 
 
 added new features
