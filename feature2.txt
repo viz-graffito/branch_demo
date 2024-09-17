@@ -2,3 +2,5 @@ i changed this line to create a conflict.
 
 
 added new features
+
+new feature added
