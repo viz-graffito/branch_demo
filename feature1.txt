@@ -7,5 +7,5 @@ The new feature one has been added.
 
 
 
-
+some text
 This is just an example.
